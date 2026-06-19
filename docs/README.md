@@ -63,9 +63,9 @@ Exemplo de dados:
 
 | id | nome | telefone |
 |---|---|---|
-| 1 | Clara Silva | 11999999999 |
-| 2 | Maria Souza | 11988888888 |
-| 3 | Carlos Lima | 11977777777 |
+| 1 | Clara Silva | 48991740973 |
+| 2 | Maria Souza | 48991780733 |
+| 3 | Carlos Lima | 48991951524 |
 
 ## Pré-requisitos
 
